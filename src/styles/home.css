@@ -1,0 +1,28 @@
+.home {
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.tittle {
+    font-weight: 900;
+    font-style: italic;
+    color: #fff;
+    text-align: center;
+}
+
+/* .buttons {
+    gap: 10px;
+    margin-top: 20px;
+    margin-right: 100px;
+} */
+/* @media (max-width: 700px) {
+    .home {
+    display: flex;
+    justify-content: center;
+}
+} */

@@ -1,0 +1,148 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald&family=Roboto:ital,wght@0,900;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap");
+
+.App {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    background-color: #f0f2f5;
+}
+.textCard {
+    font-style: italic;
+}
+.navbar {
+    display: flex;
+    background-color: #ccd5ae;
+    justify-content: space-between;
+}
+
+.himage {
+    height: 450px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-clip: initial;
+}
+
+.galeria {
+    border: none;
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+.menu {
+    display: flex;
+    justify-content: center;
+}
+.logo {
+    height: 40px;
+    width: 40px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.login {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 80vh;
+}
+.cont-productos {
+    min-height: 80vh;
+}
+.find-product {
+    margin-top: 70px;
+}
+.search {
+    display: flex;
+    width: 38%;
+    justify-content: space-evenly;
+    padding-top: 30px;
+}
+
+.search select {
+    width: 48%;
+}
+
+.search input {
+    width: 48%;
+}
+.containerDet {
+    margin-top: 4rem;
+}
+
+.card-pelicula {
+    width: 300px !important;
+}
+.cont-desc {
+    display: none;
+    height: 100%;
+    padding: 0 10px;
+    gap: 20px;
+    justify-content: center;
+}
+.card-img-top:hover {
+    opacity: 0.8;
+}
+
+.card-img-top:hover ~ .cont-desc {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #ccd5aee0;
+    height: 100%;
+}
+.cont-desc:hover {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #ccd5aee0;
+    width: 100%;
+    height: 100%;
+}
+.card {
+    cursor: pointer;
+    min-height: 370px;
+}
+.card-img {
+    max-height: 370px;
+    min-height: 370px;
+}
+.nav-pos {
+    position: absolute !important;
+    top: 10px;
+    right: 10px;
+}
+.d-buttons {
+    display: flex;
+    gap: 20px;
+}
+@media (max-width: 700px) {
+    .title-nav {
+        font-size: 14px;
+    }
+    .search {
+        width: 70%;
+    }
+    .find-product {
+        margin-top: 55px;
+    }
+}
+.textCard {
+    font-style: italic;
+}

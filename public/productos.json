@@ -1,0 +1,107 @@
+[
+    {
+      "id": 1,
+      "nombre": "El Pianista",
+      "descripcion": "Durante la Segunda Guerra Mundial, Wladyslaw Szpilman, un célebre pianista judío de origen polaco, escapa a la deportación, pero se encuentra hacinado en el gueto de Varsovia, donde comparte con los demás sufrimientos, humillaciones y luchas heroicas. Cuando por fin logra huir de allí, se refugia en las ruinas de la capital. Un oficial alemán, que aprecia su música, le ayudará a sobrevivir.",
+      "imagen": "https://es.web.img3.acsta.net/c_310_420/pictures/14/05/27/12/07/438875.jpg",
+      "genero": "Drama",
+      "año": "2002",
+      "tiempo": "148 min.",
+      "price": 8990,
+      "liked": false,
+      "direccion":"Roman Polanski",
+      "country":"Reino Unido"
+    },
+    {
+      "id": 2,
+      "nombre": "Líbranos del mal",
+      "descripcion": "Documental que versa sobre los escándalos sexuales de la Iglesia Católica en Estados Unidos. Este turbador documento narra la historia del padre Oliver O’Grady, el más conocido pedófilo de la historia de la iglesia moderna.",
+      "imagen": "https://es.web.img2.acsta.net/medias/nmedia/18/66/88/99/20168921.jpg",
+      "genero": "Documental | Religión",
+      "año": "2006",
+      "tiempo": "101 min.",
+      "price": 10900,
+      "liked": false,
+      "direccion":"Amy Berg",
+      "country":"Estados Unidos"
+    },
+    {
+      "id": 3,
+      "nombre": "I Am Not Your Negro",
+      "descripcion": "A través de las palabras del escritor y activista afroamericano James Baldwin y su obra Remember This House, conocemos uno de los grandes problemas de la sociedad estadounidense: el conflicto racial entre la población blanca y la población negra. A través de las vidas, y posteriores asesinatos, de tres amigos íntimos del autor, Martin Luther King Jr., Medgar Evers y Malcolm X, el documental aporta una visión genuina sobre el racismo en este país. Un problema social y político forma parte de la historia norteamericana, pero también es una preocupación actual.",
+      "imagen": "https://es.web.img3.acsta.net/c_310_420/pictures/17/03/14/13/41/055402.jpg",
+      "genero": "Documental | Racismo",
+      "año": "2016",
+      "tiempo": "93 min.",
+      "price": 14990,
+      "liked": false,
+      "direccion":"Raoul Peck",
+      "country":"Estados Unidos"
+    },
+    {
+      "id": 4,
+      "nombre": "Amy",
+      "descripcion": "Documental sobre la famosa cantante británica Amy Winehouse, que cuenta con imágenes inéditas de archivo y entrevistas con la malograda estrella, que murió en julio del 2011 a los 27 años de edad por parada cardíaca consecuencia de sus excesos con las drogas y el alcohol, adicciones agravadas por su bulimia. Amy Winehouse, ganadora de 6 Premios Grammys.",
+      "imagen": "https://m.media-amazon.com/images/M/MV5BMTQ1MzE4MTE3OF5BMl5BanBnXkFtZTgwOTcyNDM3NTE@._V1_.jpg",
+      "genero": "Biográfico",
+      "año": "2015",
+      "tiempo": "128 min.",
+      "price": 7990,
+      "liked": false,
+      "direccion":"Asif Kapadia",
+      "country":"Reino Unido"
+    },
+    {
+      "id": 5,
+      "nombre": "Sonido de libertad",
+      "descripcion": "Tim Ballard (Jim Caviezel) trabaja como agente especial para el gobierno de los Estados Unidos. Como parte del Departamento de Seguridad Nacional, se centra principalmente en la ciberdelincuencia contra menores víctimas de delitos sexuales: desde la trata de seres humanos al turismo sexual. Con su experiencia, Ballard ha conseguido infiltrarse y desmantelar decenas de organizaciones delictivas que secuestraban a niños y los obligaban a prostituirse. Sin embargo, su mayor esfuerzo y contribución a la lucha contra la delincuencia comienza con la fundación de Operation Underground Railroad (conocida por las siglas OUR): una organización sin ánimo de lucro que ayuda a gobiernos de todo el mundo a rescatar a víctimas del tráfico sexual.",
+      "imagen": "https://es.web.img2.acsta.net/c_310_420/pictures/23/05/30/14/43/4339481.jpg",
+      "genero": "Thriller | Drama ",
+      "año": "2023",
+      "tiempo": "131 min.",
+      "price": 24990,
+      "liked": false,
+      "direccion":"Alejandro Monteverde",
+      "country":"Estados Unidos"
+    },
+    {
+      "id": 6,
+      "nombre": "Una mente maravillosa",
+      "descripcion": "Historia basada en la vida real de John Nash, un matemático con una mente prodigiosa. La trama sigue su trayectoria desde sus años de estudiante en la Universidad de Princeton hasta su carrera académica en el MIT, y más allá. Sin embargo, la película no solo se centra en su notable intelecto y sus logros profesionales, sino que se adentra profundamente en sus luchas personales con la esquizofrenia.",
+      "imagen": "https://es.web.img3.acsta.net/c_310_420/pictures/16/02/24/14/29/284758.jpg",
+      "genero": "Drama | Biográfico.",
+      "año": "2001",
+      "tiempo": "130 min.",
+      "price": 11990,
+      "liked": false,
+      "direccion":"Ron Howard",
+      "country":"Estados Unidos"
+    },
+    {
+      "id": 7,
+      "nombre": "Cowspiracy",
+      "descripcion": "El documental Cowspiracy sigue al protagonista a través de varias entrevistas a personas relacionadas de un modo u otro con la industria alimentaria y las asociaciones ecologistas. Plantea como siendo el consumo de carne uno de los mayores causantes de problemas de índole ambiental, esto no es abordado por las ONG.Lo realmente interesante es que a través de ese recorrido, se expone de una manera muy visual y sencilla todos los problemas ambientales relacionados con el consumo de carne en Estados Unidos, pudiendo extraer estos problemas a otras regiones del mundo.",
+      "imagen": "https://conetica.com.ar/wp-content/uploads/2019/01/cowspiracy-692x1024.jpg",
+      "genero": "Documental",
+      "año": "2014",
+      "tiempo": "91 min.",
+      "price": 14990,
+      "liked": false,
+      "direccion":"Kip Andersen - Keegan Kuhn",
+      "country":"Estados Unidos"
+    },
+    {
+      "id": 8,
+      "nombre": "12 años de esclavitud",
+      "descripcion": "Mediados del siglo XIX. Solomon Northup (Chiwetel Ejiofor, Cinturón rojo) es un hombre negro inteligente que se dedica a la música en Nueva York. Vive plácidamente con su familia y se encuentra orgulloso de ser libre y poder dedicarse a lo que le gusta. Sin embargo, todo cambiará radicalmente para Solomon cuando un día dos compañeros de trabajo le tiendan una trampa. A partir de ese momento, la sociedad civilizada en la que creía vivir se derrumbará por completo cuando se de cuenta de que ha sido capturado para ser vendido como mano de obra para trabajar en el Sur profundo, en las plantaciones de Louisiana. Todos sus esfuerzos por mantener su independencia se han derrumbado y ahora su vida se ha convertido en una auténtica pesadilla.",
+      "imagen": "https://es.web.img2.acsta.net/c_310_420/pictures/210/601/21060125_20131129130716099.jpg",
+      "genero": "Drama",
+      "año": "2013",
+      "tiempo": "133 min.",
+      "price": 12990,
+      "liked": false,
+      "direccion":"Steve McQueen",
+      "country":"Estados Unidos"
+    }
+  ]
+  

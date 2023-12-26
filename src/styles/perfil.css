@@ -1,0 +1,90 @@
+.perfil {
+    margin-top: 1rem;
+    /* height: 85vh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+.card-perfil {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: center;
+    gap: 30px;
+    width: 90%;
+    height: 775px;
+    border-radius: 10px;
+    
+}
+.perfil-img {
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+}
+.perf-desc {
+    display: flex;
+    width: 500px;
+    flex-direction: row;
+    font-weight: 700;
+    align-items: start;
+    justify-content: center;
+    gap: 20px;
+}
+.perf-name {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
+    gap: 10px;
+}
+.perf-lastname {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 10px;
+}
+.input {
+    width: 90%;
+    height: 30px;
+    align-items: center;
+}
+.perf-forms {
+    margin-top: 3px;
+}
+.button {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.button button {
+    width: 150px;
+    height: 40px;
+}
+.btnPerfil {
+    margin-top: 1rem;
+}
+@media (max-width: 700px) {
+    .card-perfil {
+        flex-direction: column;
+    }
+    .perfil-img {
+        width: 100px;
+        margin-top: 20px;
+    }
+    .perf-desc {
+        width: auto;
+    }
+    .perf-name {
+        font-size: 12px;
+    }
+    .button button {
+        width: 100px;
+        height: 30px;
+        font-size: 12px;
+    }
+}
